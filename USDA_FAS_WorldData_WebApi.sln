@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USDA_FAS_WorldData_WebApi", "USDA_FAS_WorldData_WebApi.csproj", "{BEEDDAB9-F007-40CF-8F5A-A05795006ECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEEDDAB9-F007-40CF-8F5A-A05795006ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEEDDAB9-F007-40CF-8F5A-A05795006ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEEDDAB9-F007-40CF-8F5A-A05795006ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEEDDAB9-F007-40CF-8F5A-A05795006ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B593A92-6C65-4A30-B0A4-43A5850D664B}
+	EndGlobalSection
+EndGlobal
