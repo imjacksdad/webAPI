@@ -1,1 +1,3 @@
 C:\Users\zec0009\source\repos\USDA_FAS_WorldData_WebApi\obj\Debug\USDA_FAS_WorldData_WebApi.csprojAssemblyReference.cache
+C:\Python39\testfiles\webAPI\obj\Debug\USDA_FAS_WorldData_WebApi.csprojAssemblyReference.cache
+C:\Python39\testfiles\webAPI\obj\Debug\USDA_FAS_WorldData_WebApi.csproj.CoreCompileInputs.cache
